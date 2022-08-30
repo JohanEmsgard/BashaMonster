@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\emsgard.johan\\Programering 2\\BashaMonster\\BashaMonster\\BashaMonster.csproj": {}
+    "C:\\Users\\emsgard.johan\\Programering 2\\BashaMonster\\BashaMonster\\BashaMonster.csproj": {}
   },
   "projects": {
-    "c:\\Users\\emsgard.johan\\Programering 2\\BashaMonster\\BashaMonster\\BashaMonster.csproj": {
+    "C:\\Users\\emsgard.johan\\Programering 2\\BashaMonster\\BashaMonster\\BashaMonster.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\emsgard.johan\\Programering 2\\BashaMonster\\BashaMonster\\BashaMonster.csproj",
+        "projectUniqueName": "C:\\Users\\emsgard.johan\\Programering 2\\BashaMonster\\BashaMonster\\BashaMonster.csproj",
         "projectName": "BashaMonster",
-        "projectPath": "c:\\Users\\emsgard.johan\\Programering 2\\BashaMonster\\BashaMonster\\BashaMonster.csproj",
+        "projectPath": "C:\\Users\\emsgard.johan\\Programering 2\\BashaMonster\\BashaMonster\\BashaMonster.csproj",
         "packagesPath": "C:\\Users\\emsgard.johan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\emsgard.johan\\Programering 2\\BashaMonster\\BashaMonster\\obj\\",
+        "outputPath": "C:\\Users\\emsgard.johan\\Programering 2\\BashaMonster\\BashaMonster\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
